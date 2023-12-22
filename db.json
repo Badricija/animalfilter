@@ -1,0 +1,36 @@
+{
+  "cats": [
+    {
+      "name": "Frenkijs",
+      "breed": "sfinks",
+      "description": "Mīl gulēt zem segas, ļoti patīk uzmanība",
+      "imageUrl": "https://www.babylux.lv/share_img/1-169377_Diy-3d-dimanta-iz%C5%A1uvumi-sfinksu-ka%C4%B7u-dimanta-moza%C4%ABkas.jpeg",
+      "age": 2,
+      "id": 1
+    },
+    {
+      "name": "Mētra",
+      "breed": "Trīskrāsainā lauku kaķene",
+      "description": "Lielākais ienaidnieks - tapetes. Kad guļ, viņa krāc",
+      "imageUrl": "https://img3.spoki.lv/upload/articles/88/88711/images/kaki-14.jpg",
+      "age": 4,
+      "id": 2
+    },
+    {
+      "name": "Hose",
+      "breed": "Krievu zilais",
+      "description": "Izglābtais puika. Apsēsts ar ēdienu",
+      "imageUrl": "https://i.jauns.lv/o/2017/04/03/1115063.jpg",
+      "age": 13,
+      "id": 3
+    },
+    {
+      "name": "Marsels",
+      "breed": "Rižiks",
+      "description": "Rižais pūkainis. Diemžēl sirsniņa viņam apturēja dzīvi",
+      "imageUrl": "https://api.delfi.lv/media-api-image-cropper/v1/478ddeb0-6119-11ed-b4c0-b95419279305.jpg?w=876",
+      "age": 5,
+      "id": 4
+    }
+  ]
+}

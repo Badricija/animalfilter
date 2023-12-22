@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+* {
+  box-sizing: border-box;
+}
+body {
+ display: flex;
+ background-color: #E0A24E;
+ color: #B04727;
+ font-family: 'Raleway', sans-serif;
+}
+.formcontainer {
+  border: 2px solid #FAC676;
+  background-color: #FAC676;
+  border-radius: 6px;
+  margin: 20px;
+  padding: 10px;
+
+}
+.placeholder {
+  border-radius: 6px;
+  margin-top: 5px;
+  padding: 3px;
+  border: none;
+  flex-direction: column;
+
+}
+.button {
+  background-color: #CC5F39;
+  color: white;
+  border-radius: 6px;
+  padding: 5px;
+  margin-right: 5px;
+  
+}
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px; 
+}
+.cat-cards {
+  flex-wrap: wrap;
+  gap: 20px; 
+  display: flex;
+  justify-content: center;
+  border: 2px solid #FAC676;
+  background-color: #FAC676;
+  border-radius: 6px;
+  margin: 20px;
+  padding: 10px;
+}
+.form-container {
+  flex-shrink: 0; 
+}
+
+.picture {
+  height: 200px;
+	width: auto;
+  border-radius: 10px;
+}
+.edit-form{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px; 
+}
